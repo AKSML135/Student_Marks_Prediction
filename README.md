@@ -1,7 +1,7 @@
 ## END TO END DATA SCIENCE PROJECT 
 ## DEPLOYMENT VIA AZURE WEBAPP USING GITHUB ACTIONS - 
 
-# 1) 
+# Problem Statement
 - This project understands how the student's performance (test scores) is affected by other variables such as Gender, Ethnicity,Parental level of education, Lunch and Test preparation course.
 
 - Dataset Source - https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
